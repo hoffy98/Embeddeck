@@ -43,3 +43,9 @@ The main parts of the system is a Raspberry PI 5 and a Analog Discovery 2 (14-bi
 **Total Electronic Components Cost: €441.00**
 
 *Note: Hardware components (screws, threaded inserts) and PLA filament costs are not included in the total as they are typically purchased in bulk quantities or are standard shop supplies.*
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+
+This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this project without any restrictions.
