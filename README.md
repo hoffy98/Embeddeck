@@ -1,7 +1,10 @@
 # Embeddeck
 
 Embeddeck is a System inspired by Cyberdecks and is designed for Embedded Software and Hardware Development. 
-The main parts of the system is a Raspberry PI 5 and a Analog Discovery 2 (14-bit 100MS/s USB Oscilloscope, Logic Analyzer, and Variable Power Supply) connected to a Touch LCD Display.
+
+The main parts of the system is a **Raspberry PI 5** and a **Analog Discovery 2** (14-bit 100MS/s USB Oscilloscope, Logic Analyzer, and Variable Power Supply) connected to a **Touch LCD Display**.
+
+![CAD Explosion View](/img/Picture.png)
 
 ## CAD Model
 ![CAD Explosion View](/img/EmbeddeckExplosion.png)
